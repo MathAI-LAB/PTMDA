@@ -32,6 +32,8 @@ cuda==9.0
 │  │  ├─images/
 
 
+The python files and data files.
+
 ├─(Current directory)
 
 │  PTMDAtrain1.py
@@ -54,6 +56,9 @@ cuda==9.0
 
 
 Run:
-step1, run Train1_S1.py.
-step2, run Fea_WD2a2.py and sum3.py,
+
+step1, run Train1_S1.py;
+
+step2, run Fea_WD2a2.py and sum3.py;
+
 then,  run Train2_S2.py .
